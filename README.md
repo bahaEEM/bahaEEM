@@ -21,8 +21,8 @@ ivmeölçer, yazılım tarafında spektral öznitelik çıkarımı ve cihaz üst
 çalışan istatistiksel karar mantığı bulunur.
 
 Mimari, kamuya açık titreşim veri kümeleri üzerinde sınanmıştır. Doğrulama
-çalışmasının kodu, veri künyeleri ve analiz çıktıları ayrı bir depoda
-tutulmaktadır.
+çalışmasının kodu, veri künyeleri ve analiz çıktıları burada:
+[axeon-edge-dogrulama](https://github.com/bahaEEM/axeon-edge-dogrulama)
 
 
 ### Kullandığım araçlar
