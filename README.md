@@ -24,23 +24,14 @@ Mimari, kamuya açık titreşim veri kümeleri üzerinde sınanmıştır. Doğru
 çalışmasının kodu, veri künyeleri ve analiz çıktıları ayrı bir depoda
 tutulmaktadır.
 
-### Diğer çalışmalar
-
-**egehan-teknik** — Bir metal imalat firması için yazılan tanıtım sitesi.
-Hazır şablon veya çatı kullanılmadan düz HTML ve CSS ile geliştirildi;
-mobil öncelikli, tek dış bağımlılığı yazı tipi.
-[Yayında](https://bahaeem.github.io/egehan-teknik/)
-
-**net_hunter** — Rust ile yazılmış komut satırı TCP port tarayıcı. Eğitim
-amaçlı ağ analizi için geliştirildi.
 
 ### Kullandığım araçlar
 
-Gömülü sistemler: STM32CubeIDE, C
+Gömülü sistemler: STM32CubeIDE/CubeMX , C
 Elektronik tasarım: KiCad, LTspice
 Elektrik projelendirme: EPLAN
 Veri analizi: Python (NumPy, SciPy, pandas, scikit-learn)
-Diğer: Rust
+
 
 ### İletişim
 
