@@ -38,9 +38,9 @@ amaçlı ağ analizi için geliştirildi.
 
 Gömülü sistemler: STM32CubeIDE, C
 Elektronik tasarım: KiCad, LTspice
-Elektrik projelendirme: EPLAN, QElectroTech
+Elektrik projelendirme: EPLAN
 Veri analizi: Python (NumPy, SciPy, pandas, scikit-learn)
-Diğer: Rust, HTML ve CSS
+Diğer: Rust
 
 ### İletişim
 
