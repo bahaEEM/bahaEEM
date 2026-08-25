@@ -1,16 +1,47 @@
-## Hi there 👋
+## Baha Tarman
 
-<!--
-**bahaEEM/bahaEEM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Elektrik-elektronik ve gömülü sistemler üzerine çalışıyorum. İlgi alanlarım
+STM32 tabanlı gömülü yazılım, titreşim ve sinyal işleme, endüstriyel
+elektrik ve otomasyon.
 
-Here are some ideas to get you started:
+### Üzerinde çalıştığım proje
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**AXEON-Edge** — Dönen ekipmanlar için kestirimci bakım sistemi. Motor, fan
+ve pompaların titreşimini ölçüp arıza belirtisini cihazın kendi üstünde
+tespit eder; bulut, sunucu veya internet bağlantısı gerektirmez.
+
+Cihaz makineye takıldığında o makinenin normal davranışını kendisi öğrenir,
+sonraki ölçümlerin bu normale uzaklığına bakar. Böylece kurulumda elle eşik
+girilmesi gerekmez. Kestirimci bakım cihazlarının sahada en sık yaşadığı
+sorun, yük veya devir değiştiğinde sabit eşiğin aşılması ve arıza olmadığı
+hâlde alarm üretilmesidir; mimari bu sorunu hedef alır.
+
+Donanım tarafında Cortex-M4F mikrodenetleyici ve geniş bantlı MEMS
+ivmeölçer, yazılım tarafında spektral öznitelik çıkarımı ve cihaz üstünde
+çalışan istatistiksel karar mantığı bulunur.
+
+Mimari, kamuya açık titreşim veri kümeleri üzerinde sınanmıştır. Doğrulama
+çalışmasının kodu, veri künyeleri ve analiz çıktıları ayrı bir depoda
+tutulmaktadır.
+
+### Diğer çalışmalar
+
+**egehan-teknik** — Bir metal imalat firması için yazılan tanıtım sitesi.
+Hazır şablon veya çatı kullanılmadan düz HTML ve CSS ile geliştirildi;
+mobil öncelikli, tek dış bağımlılığı yazı tipi.
+[Yayında](https://bahaeem.github.io/egehan-teknik/)
+
+**net_hunter** — Rust ile yazılmış komut satırı TCP port tarayıcı. Eğitim
+amaçlı ağ analizi için geliştirildi.
+
+### Kullandığım araçlar
+
+Gömülü sistemler: STM32CubeIDE, C
+Elektronik tasarım: KiCad, LTspice
+Elektrik projelendirme: EPLAN, QElectroTech
+Veri analizi: Python (NumPy, SciPy, pandas, scikit-learn)
+Diğer: Rust, HTML ve CSS
+
+### İletişim
+
+bahatarman76@gmail.com
